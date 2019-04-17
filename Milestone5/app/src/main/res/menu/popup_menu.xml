@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/personalMenuItem"
+        android:title="Add Personal Contact" />
+    <item
+        android:id="@+id/businessMenuItem"
+        android:title="Add Business Contact" />
+</menu>

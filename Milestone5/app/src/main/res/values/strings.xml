@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Milestone 5</string>
+    <string name="title_activity_add_business">AddBusiness</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="todo">todo</string>
+    <string name="business">Business</string>
+    <string name="website">Website</string>
+    <string name="a_z">A-Z</string>
+    <string name="personal">Personal</string>
+    <string name="title_activity_personal_contact_page">PersonalContactPage</string>
+</resources>
